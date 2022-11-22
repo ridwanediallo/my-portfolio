@@ -1,0 +1,9 @@
+section {
+  background-image: url('hero-bg.png');
+  background-size: 100% 80vh;
+  background-repeat: no-repeat;
+  margin-bottom: 20px;
+  border-radius: 0 0 0 100px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
